@@ -90,6 +90,8 @@ minimize(X, y, ∇L, η, ε=1e-5, precision=1e-9)
     return β
 ```
 
+By using Adagrad, you can enhance the convergence speed of the gradient descent algorithm and potentially improve the optimization process.
+
 ## Contributing
 
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please open an issue or a pull request.
